@@ -39,6 +39,18 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
+    "Soccer Team": {
+        "description": "Team soccer training and competitive matches",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 22,
+        "participants": []
+    },
+    "Tennis Club": {
+        "description": "Practice tennis skills, drills, and match play",
+        "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
+    },
     "Basketball Team": {
         "description": "Competitive basketball training and games",
         "schedule": "Tuesdays and Thursdays, 4:00 PM - 6:00 PM",
@@ -57,6 +69,18 @@ activities = {
         "max_participants": 15,
         "participants": []
     },
+    "Photography Club": {
+        "description": "Explore photography, composition, and visual storytelling",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 14,
+        "participants": []
+    },
+    "Music Ensemble": {
+        "description": "Rehearse and perform music together as an ensemble",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": []
+    },
     "Drama Club": {
         "description": "Theater arts and performance training",
         "schedule": "Tuesdays, 4:00 PM - 6:00 PM",
@@ -73,6 +97,18 @@ activities = {
         "description": "Hands-on experiments and scientific exploration",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
+        "participants": []
+    },
+    "Robotics Club": {
+        "description": "Design, build, and program robots for team challenges",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Creative Writing Club": {
+        "description": "Develop storytelling skills through writing and workshops",
+        "schedule": "Wednesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 16,
         "participants": []
     }
 }
